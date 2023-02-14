@@ -42,7 +42,7 @@ print("The expected yield of apples in region1 is {} tons per hectare.".format(r
 
 ```
 Output:
-The expected yield of apples in Kanto region is 56.8 tons per hectare.
+The expected yield of apples in region1 is 56.8 tons per hectare.
 ```
 
 ## Dot product (multiplication) of two vectors
