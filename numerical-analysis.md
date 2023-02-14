@@ -241,7 +241,7 @@ array([[25. , 76. , 99. , 72.2],
 
 There are a couple of subtleties here:
 
-- Since we wish to add new columns, we pass the argument ```axis=1``` to np.concatenate. The axis argument specifies the dimension for concatenation.
+- Since we wish to add new columns, we pass the argument ```axis=1``` to ```np.concatenate```. The axis argument specifies the dimension for concatenation.
 
 - The arrays should have the same number of dimensions, and the same length along each except the dimension used for concatenation. We use the ```np.reshape``` function to change the shape of yields from ```(10000,)``` to ```(10000,1)```.
 
