@@ -1,4 +1,4 @@
-# Identifying yield using numpy analysis
+# Predicting yield using numpy analysis
 
 Data Analysis refers to analysis of numerical data to make effective decisions in a more scientific way. The [Numpy](https://numpy.org) library supports large multi-dimensional arrays and matrices operations and it also contains a large number of hight-level mathematical functions for working with numbers.
 
